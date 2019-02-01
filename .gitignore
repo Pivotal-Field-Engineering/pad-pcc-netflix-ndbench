@@ -1,0 +1,17 @@
+classes
+build
+.gradle
+.classpath
+.project
+.settings
+bin/
+*.iml
+*.ipr
+*.iws
+.idea/*
+*.log
+ndbench-cass-plugins/out/
+ndbench-cli/src/test/
+ndbench-core/out/
+ndbench-web/out/
+.vscode/*

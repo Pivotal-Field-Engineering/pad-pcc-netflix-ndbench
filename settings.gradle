@@ -1,0 +1,8 @@
+rootProject.name='ndbench'
+
+include 'ndbench-api'
+include 'ndbench-cli'
+include 'ndbench-core'
+include 'ndbench-geode-plugins'
+include 'ndbench-web'
+include 'ndbench-aws'

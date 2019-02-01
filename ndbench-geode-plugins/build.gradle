@@ -1,0 +1,8 @@
+dependencies {
+    // We have dependency on the main project.
+    compile project(':ndbench-api')
+
+    testCompile 'org.mockito:mockito-all:1.10.19'
+    compile group: 'org.springframework.data', name: 'spring-data-geode', version: '2.1.4.RELEASE'
+
+}

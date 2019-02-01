@@ -1,0 +1,7 @@
+---
+applications:
+- name: pcc-benchmark-app
+  random-route: true
+  path: build/libs/ndbench-geode-plugins-0.5.0-SNAPSHOT.jar
+  services:
+  - pcc-benchmark
